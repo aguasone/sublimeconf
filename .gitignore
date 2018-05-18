@@ -1,0 +1,10 @@
+
+*.user-ca-bundle
+
+*.merged-ca-bundle
+
+*.crt
+
+*.last-run
+
+Package Control\.cache/

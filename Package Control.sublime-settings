@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"All Autocomplete",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Color Scheme - Chromodynamics",
+		"DocBlockr",
+		"FileIcons",
+		"GitGutter",
+		"GitSavvy",
+		"Indent XML",
+		"JsPrettier",
+		"MarkdownPreview",
+		"Package Control",
+		"ReadmePlease",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter"
+	]
+}
